@@ -1,0 +1,21 @@
+body {
+	color: #fff;
+	background: #000;
+	font-family: 'Exo', sans-serif;
+}
+#wrapper {
+	width: 980px;
+	margin: 0 auto;
+}
+.clock-container{
+	width: 325px;
+	padding: 10px 0;
+	float: left;
+	text-align: center;
+	overflow: hidden;
+}
+.clock-container .title {
+	display: block;
+	text-align: center;
+	height: 2em;
+}
